@@ -1,6 +1,6 @@
 # OOD_YOLONAS_SAM
 
-1] YOLO_NAS on Custom DataSet:
+## 1] YOLO_NAS on Custom DataSet:
 
 Here's a step-by-step breakdown of how I did it:
 
@@ -24,7 +24,7 @@ This technology has tremendous potential for various applications, from autonomo
 
 ---
 
-2. Yolo NAS + SAM
+## 2. Yolo NAS + SAM
 
 *Yolo NAS model is explore above.*
 
