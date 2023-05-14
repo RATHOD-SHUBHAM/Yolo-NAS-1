@@ -5,7 +5,7 @@
 Here's a step-by-step breakdown of how I did it:
 
 * Data Collection: The first step was to collect a set of images relevant to the object detection task. I used RoboFlow's custom dataset for this task.
-# https://lnkd.in/g-NG597q
+    ##### https://lnkd.in/g-NG597q
 
 * Data Augmentation or Data Preprocessing: After collecting the images, I cleaned and prepared the data for the training phase. This involved resizing, cropping, and labeling the images with bounding boxes to indicate the location of the objects of interest.
 
@@ -19,3 +19,5 @@ The model output was an object detection system capable of identifying all 23 cl
 
 This technology has tremendous potential for various applications, from autonomous driving to video surveillance and beyond.
 
+
+<img width="1434" alt="Screenshot 2023-05-14 at 9 28 37 AM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/962343e4-d7ec-4cd8-9c91-31994a98b2ec">
