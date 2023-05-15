@@ -26,7 +26,7 @@ This technology has tremendous potential for various applications, from autonomo
 
 ## 2. Yolo NAS + SAM
 
-*Yolo NAS model is explore above.*
+*Yolo NAS model is explored above.*
 
 Steps:
 
