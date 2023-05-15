@@ -1,6 +1,6 @@
 # Yolo NAS + SAM
 
-*Yolo NAS model is explore above.*
+*Yolo NAS model is explored previously.*
 
 Steps:
 
