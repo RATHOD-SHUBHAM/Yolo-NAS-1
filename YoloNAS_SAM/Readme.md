@@ -25,3 +25,8 @@ Steps:
 10. Visualize the results: Visualize the results of object detection and segmentation by drawing bounding boxes around the objects detected and coloring the segmented objects.
 
 <img width="1733" alt="Screenshot 2023-05-14 at 2 38 54 PM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/1b031f8a-10f7-4392-ad59-7304bbe3df6c">
+
+
+---
+
+Kaggle Notebook: https://www.kaggle.com/code/gibborathod/segmentanything?scriptVersionId=130225073
