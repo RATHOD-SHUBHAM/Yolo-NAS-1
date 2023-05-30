@@ -54,6 +54,6 @@ Steps:
     
 ---
 
-[https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/de54a7e2-cab8-4c78-a4c9-f23deb8e27b4](https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/2e26baa6-143d-4d13-9564-c2752ffd3c65)
+<img width="464" alt="Screenshot 2023-05-30 at 5 59 41 PM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/ea65431a-b7e8-483a-9313-10c98aa557d1">
 
 
