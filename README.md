@@ -54,6 +54,6 @@ Steps:
     
 ---
 
-https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/de54a7e2-cab8-4c78-a4c9-f23deb8e27b4
+[https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/de54a7e2-cab8-4c78-a4c9-f23deb8e27b4](https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/2e26baa6-143d-4d13-9564-c2752ffd3c65)
 
 
