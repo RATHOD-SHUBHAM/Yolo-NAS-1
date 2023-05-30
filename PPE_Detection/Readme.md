@@ -28,3 +28,6 @@ To perform PPE (Personal Protective Equipment) detection using YOLO-NAS (You Onl
 6. Model Deployment:
    - Export the trained YOLO-NAS model for inference.
 
+
+https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/de54a7e2-cab8-4c78-a4c9-f23deb8e27b4
+
