@@ -133,5 +133,5 @@ To improve performance, you could iterate through these steps:
 2. Epoch: Train the model on a larger Epoch. (Here the model is trained on 10 Epoch).
 3. Model parameter tuning: Consider tuning values for the training parameters used by  learning algorithm.
 
-Model Weight: [Weight_File](https://drive.google.com/drive/u/5/folders/16qYHDYxRE1HQSLfydgtEXHbxrCOUhjoX)
+- Model Weight: [Weight_File](https://drive.google.com/drive/u/5/folders/16qYHDYxRE1HQSLfydgtEXHbxrCOUhjoX)
 ---
