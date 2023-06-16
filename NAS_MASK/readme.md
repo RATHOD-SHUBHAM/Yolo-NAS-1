@@ -5,7 +5,7 @@
 Here's a step-by-step breakdown of how I did it:
 
 1.	Dataset Collection: 
-  - The initial stage was to gather a collection of images related to the object detection task. For this challenge, I utilized RoboFlow's public dataset.\
+  - The initial stage was to gather a collection of images related to the object detection task. For this challenge, I utilized RoboFlow's public dataset.
   - [dataset](https://universe.roboflow.com/xml-to-yolo-sqqvs/face-masks-old-data)
 
 2. Data Augmentation or Data Preprocessing: 
