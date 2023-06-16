@@ -4,8 +4,8 @@
 
 Here's a step-by-step breakdown of how I did it:
 
-1.	Dataset Collection: The initial stage was to gather a collection of images related to the object detection task. For this challenge, I utilized RoboFlow's public dataset.
-# [dataset](https://universe.roboflow.com/xml-to-yolo-sqqvs/face-masks-old-data)
+1.	Dataset Collection: The initial stage was to gather a collection of images related to the object detection task. For this challenge, I utilized RoboFlow's public dataset.\
+[dataset](https://universe.roboflow.com/xml-to-yolo-sqqvs/face-masks-old-data)
 
 2. Data Augmentation or Data Preprocessing: Following the collection of images, the data was cleaned and prepared for the training phase. This included scaling, cropping, and labeling the images with bounding boxes that indicated where the objects of interest were located.
 
@@ -21,8 +21,11 @@ Here's a step-by-step breakdown of how I did it:
 
 I'm quite pleased with this work and the implications it has for businesses such as autonomous systems, security, and healthcare. 
 
-If you're interested, you can check out the web application and witness the Yolo NAS concept in action.!
+If you're interested, you can check out the web application and witness the Yolo NAS concept in action.! \
 [Mask_Det](https://huggingface.co/spaces/Rathsam/FaceMaskDetection_YOLONAS)
 
-Code Available on GitHub:
+Code Available on GitHub: \
 [Code](https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/tree/master/NAS_MASK/NAS_streamlit_APP)
+
+
+![20dc6883cc5e6dac0dc599771f263c7e3e0697ef1b20cb97843a13a9](https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/d3611399-bbd9-43c2-9a2a-767622576604)
