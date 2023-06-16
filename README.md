@@ -112,7 +112,9 @@ To perform PPE (Personal Protective Equipment) detection using YOLO-NAS (You Onl
 7. Deployment on Hugging Face: 
     - Once the model was complete, I used Hugging Face's Model Hub to upload and share it with the community. The application is available to users all over the world, allowing them to use the object detection capabilities effortlessly through a web browser.
 
-[Mask_Det](https://huggingface.co/spaces/Rathsam/FaceMaskDetection_YOLONAS)
+Live Demo: [Mask_Det](https://huggingface.co/spaces/Rathsam/FaceMaskDetection_YOLONAS)
+
+<img width="732" alt="Screenshot 2023-06-15 at 9 59 03 PM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/9d332b0c-2c4e-4efe-b710-bafdaf9da894">
 
 ---
 
