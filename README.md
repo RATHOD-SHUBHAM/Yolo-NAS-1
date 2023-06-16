@@ -86,4 +86,34 @@ To perform PPE (Personal Protective Equipment) detection using YOLO-NAS (You Onl
 
 <img width="464" alt="Screenshot 2023-05-30 at 5 59 41 PM" src="https://github.com/RATHOD-SHUBHAM/OOD_YOLONAS_SAM/assets/58945964/ea65431a-b7e8-483a-9313-10c98aa557d1">
 
+---
+
+## 4] YOLO-NAS + OpenCV + Streamlit
+
+1.	Dataset Collection: 
+    - The initial stage was to gather a collection of images related to the object detection task. For this challenge, I utilized RoboFlow's public dataset.
+    - [dataset](https://universe.roboflow.com/xml-to-yolo-sqqvs/face-masks-old-data)
+
+2. Data Augmentation or Data Preprocessing: 
+    - Following the collection of images, the data was cleaned and prepared for the training phase. This included scaling, cropping, and labeling the images with bounding boxes that indicated where the objects of interest were located.
+
+3. Model Training: 
+    - Using the Yolo NAS architecture, I trained the model on the custom dataset. Leveraging transfer learning, I fine-tuned the pre-trained model's weights to adapt it to my specific object detection task. I iteratively optimized the model's performance, adjusting hyperparameters and monitoring its progress.
+
+4. Model Evaluation: 
+    - Once training was complete, I evaluated the model's performance on a separate validation set to assess its accuracy and robustness. Evaluation metrics such as precision, recall, and F1 score were calculated to gauge its object detection capabilities.
+
+5. Model Export and Conversion: 
+    - After achieving satisfactory performance, I exported the trained model in a format.
+
+6. Streamlit Web Application: 
+    - To provide a user-friendly interface for interacting with the model, I leveraged Streamlit, a Python library for building web applications. I created a Streamlit app that allowed users to upload images and videos or perform real-time inference, and the model would perform object detection on those, highlighting and labeling the detected objects.
+
+7. Deployment on Hugging Face: 
+    - Once the model was complete, I used Hugging Face's Model Hub to upload and share it with the community. The application is available to users all over the world, allowing them to use the object detection capabilities effortlessly through a web browser.
+
+[Mask_Det](https://huggingface.co/spaces/Rathsam/FaceMaskDetection_YOLONAS)
+
+---
+
 
